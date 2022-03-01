@@ -1,0 +1,16 @@
+C:\Users\ankit\Desktop\bridgelab\.Net\New folder\snake\UC7\UC7\bin\Debug\net5.0\UC7.exe
+C:\Users\ankit\Desktop\bridgelab\.Net\New folder\snake\UC7\UC7\bin\Debug\net5.0\UC7.deps.json
+C:\Users\ankit\Desktop\bridgelab\.Net\New folder\snake\UC7\UC7\bin\Debug\net5.0\UC7.runtimeconfig.json
+C:\Users\ankit\Desktop\bridgelab\.Net\New folder\snake\UC7\UC7\bin\Debug\net5.0\UC7.runtimeconfig.dev.json
+C:\Users\ankit\Desktop\bridgelab\.Net\New folder\snake\UC7\UC7\bin\Debug\net5.0\UC7.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\New folder\snake\UC7\UC7\bin\Debug\net5.0\UC7.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\New folder\snake\UC7\UC7\obj\Debug\net5.0\UC7.csproj.AssemblyReference.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\New folder\snake\UC7\UC7\obj\Debug\net5.0\UC7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit\Desktop\bridgelab\.Net\New folder\snake\UC7\UC7\obj\Debug\net5.0\UC7.AssemblyInfoInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\New folder\snake\UC7\UC7\obj\Debug\net5.0\UC7.AssemblyInfo.cs
+C:\Users\ankit\Desktop\bridgelab\.Net\New folder\snake\UC7\UC7\obj\Debug\net5.0\UC7.csproj.CoreCompileInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\New folder\snake\UC7\UC7\obj\Debug\net5.0\UC7.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\New folder\snake\UC7\UC7\obj\Debug\net5.0\refint\UC7.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\New folder\snake\UC7\UC7\obj\Debug\net5.0\UC7.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\New folder\snake\UC7\UC7\obj\Debug\net5.0\UC7.genruntimeconfig.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\New folder\snake\UC7\UC7\obj\Debug\net5.0\ref\UC7.dll
